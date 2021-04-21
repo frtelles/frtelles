@@ -2,7 +2,7 @@
 
 <h3>  &nbsp;About Me </h3>
 
-💼 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Serrvice Providers. 
+💼 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Serrvice Providers.
 🌱 &nbsp; Learning more about Devops, Python, 5G Network, SDN and Cloud.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
