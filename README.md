@@ -14,7 +14,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -23,6 +22,5 @@
 <a href="https://www.instagram.com/frtelles/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-frtelles-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:franciscotelles@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franciscotelles@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 
 🌐  From [frtelles](https://github.com/frtelles)
