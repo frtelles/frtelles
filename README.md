@@ -1,6 +1,6 @@
 <h2> Hello there! I'm Francisco Telles.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>  &nbsp;About Me </h3>
 
 - 💼 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Serrvice Providers. 
 - 🌱 &nbsp; Learning more about Devops, Python, 5G Network, SDN and Cloud.
@@ -16,11 +16,5 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/franciscotelles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/frtelles/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:franciscotelles@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 🌐  From [frtelles](https://github.com/frtelles)
