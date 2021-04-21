@@ -2,7 +2,7 @@
 
 <h3>  &nbsp;About Me </h3>
 
- 👨‍💻 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Service Providers.
+💻 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Service Providers.
 
 🎯 &nbsp; Learning more about Devops, Python, 5G Network, SDN and Cloud.
 
@@ -15,5 +15,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/frtelles/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-frtelles%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/frtelles/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-frtelles-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:franciscotelles@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franciscotelles@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 
 🌐  From [frtelles](https://github.com/frtelles)
