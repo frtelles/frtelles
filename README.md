@@ -2,12 +2,12 @@
 
 <h3>  &nbsp;About Me </h3>
 
-- 💼 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Serrvice Providers. 
-- 🌱 &nbsp; Learning more about Devops, Python, 5G Network, SDN and Cloud.
+💼 &nbsp; Working as a Pre-Sales Analyst at Logicalis Brazil, with IP Network solutions for Serrvice Providers. 
+🌱 &nbsp; Learning more about Devops, Python, 5G Network, SDN and Cloud.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+ 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
